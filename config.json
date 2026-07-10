@@ -2,5 +2,6 @@
   "app_active": true,
   "latest_version": 1,
   "force_update": false,
-  "maintenance_message": "অ্যাপটি সাময়িকভাবে বন্ধ আছে। দয়া করে পরে চেষ্টা করুন।"
+  "maintenance_message": "অ্যাপটি সাময়িকভাবে বন্ধ আছে। দয়া করে পরে চেষ্টা করুন।",
+  "update_url": "https://your-download-link.com"
 }
